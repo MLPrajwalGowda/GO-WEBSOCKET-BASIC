@@ -6,7 +6,8 @@ This Project is a Basic Level of understanding about WEBSOCKETS which is written
 
 2. They are particularly useful for building applications requiring instant updates, such as real-time chat, messaging, and multiplayer games.
 
-3.
+![p1](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/82996d23-f882-443a-aa6e-f63640701328)
+
 
 - How to the Program ??
   command:- go run main.go
@@ -22,9 +23,13 @@ Please install a chrome extension named "Simple Websocket Client"
 open the extension and connect to the websocket server (ws://localhost:8080/socket) and send a message through socket and you can a status received from client.
 
 Please go through the images attached in the folder for any confusion.
-1. ![s1](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/0552258f-dd29-4bf0-bb9a-4452ae77648a)
-2. ![s2 (2)](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/60ea47d0-2ea5-4a3b-bb04-b4b07ca1c1a1)
-3. ![s3 (2)](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/e0ce5668-82bf-4770-8223-15c10b1c1e5a)
+ ![s1](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/0552258f-dd29-4bf0-bb9a-4452ae77648a)
+
+ 
+ ![s2 (2)](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/60ea47d0-2ea5-4a3b-bb04-b4b07ca1c1a1)
+
+ 
+ ![s3 (2)](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/e0ce5668-82bf-4770-8223-15c10b1c1e5a)
 
 
 
