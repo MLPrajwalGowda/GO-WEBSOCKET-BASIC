@@ -42,7 +42,8 @@ Method 2 :
 2. connect to the server ws://localhost:8080/socket
 
 3. Send the message through it and you will recevie a client message in terminal.Please find the image find below for clarification.
-4. ![s4 (2)](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/5f9dea33-da1d-44cc-8624-1b91fdff89b2)
+
+ ![s4 (2)](https://github.com/MLPrajwalGowda/GO-WEBSOCKET-BASIC/assets/117966508/5f9dea33-da1d-44cc-8624-1b91fdff89b2)
 
 
 References:-
